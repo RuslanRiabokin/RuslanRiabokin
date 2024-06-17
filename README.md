@@ -1,6 +1,4 @@
-# my-resume
-
-Ruslan Riabokin
+# Ruslan Riabokin
          Phone: +380662620960 (Telegram)
          Email: riabokin.ruslanv@gmail.com
 
