@@ -1,6 +1,7 @@
 # Ruslan Riabokin
 Phone: +380662620960 (Telegram)  
 Email: riabokin.ruslanv@gmail.com
+Linkedin: https://www.linkedin.com/in/ruslan-riabokin-8a42b42a7/
 
 ## SUMMARY
 Motivated professional with a background in sales management, eager to transition into the IT industry as a Python Developer or AQA. Recently completed comprehensive training in Python programming, automation testing, and DevOps methodologies, gaining foundational skills in SQL, Git, Docker, and web technologies. Possesses strong problem-solving abilities, an analytical mindset, and a keen attention to detail. Enthusiastic about learning and applying new technologies to contribute effectively to IT projects. Dedicated to continuous growth and development in software development and quality assurance.
